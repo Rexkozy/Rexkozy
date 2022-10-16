@@ -1,5 +1,7 @@
 
 Hi 👋, I'm Rexkozy
+
+
 A passionate Mobile Developer, Dedicated to developing robust applications that interact with the Backend part of Mobile applications. 
 Extensive expertise in Mobile architecture, design, and web API designs. 
 
